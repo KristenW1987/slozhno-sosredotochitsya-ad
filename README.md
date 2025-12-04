@@ -1,1 +1,1 @@
-git@github.com:KristenW1987/slozhno-sosredotochitsya-ad
+https://github.com/KristenW1987/slozhno-sosredotochitsya-ad.git
